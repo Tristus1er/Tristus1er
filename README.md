@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tristus1er
+- 👀 I’m interested in computer sciences, Android, NFC, electronic (ESP8266/ESP32), ...
+- 🌱 I’m currently working as a freelance, mainly developping Android applications, and teaching trainee my pro tips (LiveTemplates, bash scripts, ...).
+- 💞️ I’m looking to collaborate on developping tools related to Android world.
+- 📫 How to reach me : by mail : tristus1er@gmail.com
